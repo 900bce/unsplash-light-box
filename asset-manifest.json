@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/unsplash-light-box/static/css/main.7263e27a.chunk.css",
+    "main.js": "/unsplash-light-box/static/js/main.bb8b7b80.chunk.js",
+    "main.js.map": "/unsplash-light-box/static/js/main.bb8b7b80.chunk.js.map",
+    "runtime-main.js": "/unsplash-light-box/static/js/runtime-main.ff752c8d.js",
+    "runtime-main.js.map": "/unsplash-light-box/static/js/runtime-main.ff752c8d.js.map",
+    "static/js/2.352e6ac7.chunk.js": "/unsplash-light-box/static/js/2.352e6ac7.chunk.js",
+    "static/js/2.352e6ac7.chunk.js.map": "/unsplash-light-box/static/js/2.352e6ac7.chunk.js.map",
+    "index.html": "/unsplash-light-box/index.html",
+    "static/css/main.7263e27a.chunk.css.map": "/unsplash-light-box/static/css/main.7263e27a.chunk.css.map",
+    "static/js/2.352e6ac7.chunk.js.LICENSE.txt": "/unsplash-light-box/static/js/2.352e6ac7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ff752c8d.js",
+    "static/js/2.352e6ac7.chunk.js",
+    "static/css/main.7263e27a.chunk.css",
+    "static/js/main.bb8b7b80.chunk.js"
+  ]
+}
